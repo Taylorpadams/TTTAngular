@@ -1,0 +1,61 @@
+.boxes {
+	border: solid;
+	width: 100px;
+	height: 100px;
+}
+
+.isX {
+	background: url(../images/x.png);
+	background-size: 120px 100px;
+	background-repeat: no-repeat;
+}
+
+.isO {
+	background: url(../images/o.png);
+	background-size: 120px 100px;
+	background-repeat: no-repeat;
+}
+
+
+#board{
+	background:;
+	margin: 0 auto;
+	height: 299px;
+  	width: 426px;
+	
+}
+
+.boxes{
+	margin: 5px;
+	background-color: gray;
+	padding: 0;
+	float: left;
+	height: 100px;
+	width: 120px;
+	border: solid;
+	border-color: black;
+	font-size: 100px;
+	text-align: center;
+
+}
+.scoreBox {
+	height: 100px;
+	width: 120px;
+	border: solid;
+	border-color: black;
+	font-size: 100px;
+	text-align: center;
+	margin: 20px;
+}
+#p1 {
+	float: left;
+
+}
+#p2 {
+	float: right;
+
+}
+
+h1 {
+	text-align: center;
+}
